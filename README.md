@@ -1,1 +1,3 @@
-# pineapple-cash
+# Pineapple Cash token
+
+Coming soon.
