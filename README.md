@@ -1,3 +1,3 @@
-# Pineapple Cash token
+# Pineapple Cash Token Smart Contract
 
 Coming soon.
